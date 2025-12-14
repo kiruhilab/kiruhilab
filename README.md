@@ -1,13 +1,7 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/1aD6J7Z.png" width="100%" alt="Kiruhi YouTube Banner"/>
+  <img src="https://media.discordapp.net/attachments/1338146747611877485/1449577578053767249/bcTqXvj.jpg?ex=693f67d2&is=693e1652&hm=e61d7512cbaf04a0484b21acf1fd206a68d4afe3af01bcb34413be6d13e86e26&=&format=png" width="100%" alt="Kiruhi YouTube Banner"/>
 </p>
-
-
-<p align="center">
-  <img src="https://i.imgur.com/Mq7e3Xi.png" width="140" alt="Kiruhi Icon"/>
-</p>
----
 
 ## 🚀 What is kiruhi?
 A playground for:
