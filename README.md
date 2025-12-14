@@ -40,25 +40,3 @@ If you're here, you’re probably building something. Good — so are we.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wisecut-FF7B72?style=for-the-badge"/>
 </p>
-
----
-
-## 📦 What You’ll Find Here
-- automation scripts that solve real problems  
-- plug-and-run scraper templates  
-- AI workflows & tools  
-- B2B mini-SaaS prototypes  
-- LUT packs, assets, video presets  
-
-Everything here is built to be **used**, not just read.
-
----
-
-## 🌐 Connect Everywhere
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
-</p>
