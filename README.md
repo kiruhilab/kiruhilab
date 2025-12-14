@@ -3,17 +3,10 @@
   <img src="https://i.imgur.com/1aD6J7Z.png" width="100%" alt="Kiruhi YouTube Banner"/>
 </p>
 
-<h1 align="center">⚡ kiruhi — Code. Automate. Accelerate.</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/Mq7e3Xi.png" width="140" alt="Kiruhi Icon"/>
 </p>
-
-<p align="center">
-  <strong>No fluff. Just projects, automation, and results.</strong><br>
-  <em>3 seconds in — and you already know what this repo is about.</em>
-</p>
-
 ---
 
 ## 🚀 What is kiruhi?
@@ -25,19 +18,6 @@ A playground for:
 - project-based learning  
 
 If you're here, you’re probably building something. Good — so are we.
-
----
-
-## 🎥 Weekly YouTube Drops
-Short, sharp, high-value tutorials:
-
-- Python automation that saves HOURS  
-- JavaScript tricks with real use-cases  
-- Web scrapers you can deploy today  
-- AI tools pushed to their limits  
-- Zero-theory, all-action coding videos  
-
-👉 New videos every week under **#kiruhicode**
 
 ---
 
@@ -81,17 +61,4 @@ Everything here is built to be **used**, not just read.
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
-</p>
-
----
-
-## 🤝 Want to Contribute?
-Open an issue. Drop a PR. Suggest something wild.  
-Kiruhi grows with every idea, script, and experiment.
-
----
-
-<p align="center">
-  <strong>Let’s build. Automate. Ship. Repeat.</strong><br>
-  <em>This is the engine room of kiruhi.</em>
 </p>
