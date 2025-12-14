@@ -1,4 +1,4 @@
-![github](https://media.discordapp.net/attachments/1344289027397910661/1351647716727460021/Adsz_tasarm3.png?ex=67db2388&is=67d9d208&hm=8495537347cf85a80b60ae0e50d9cb1f0ec10f026bfc3b9e945b8af9b9985e98&=&format=webp&quality=lossless&width=1540&height=866)
+![github](https://media.discordapp.net/attachments/1338146747611877485/1449577578053767249/bcTqXvj.jpg?ex=693f67d2&is=693e1652&hm=e61d7512cbaf04a0484b21acf1fd206a68d4afe3af01bcb34413be6d13e86e26&=&format=png)
 # 🚀 kiruhi — Code. Automate. Build.
 
 This isn’t another repo.  
