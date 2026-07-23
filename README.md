@@ -6,9 +6,7 @@
 ---
 
 ### 🧠 About Me 
-- 💻 Frontend Developer
-- 🌿 Pure Minimalism
- - 🚀 Driven by Speed
+- 
 
 ---
 
