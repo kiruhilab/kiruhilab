@@ -5,10 +5,11 @@
 
 ---
 
-### 🧠 About Me 
-- 
+###  Hakkımda
 
----
+- Frontend  öğreniyorum.
+- Zübeyde Hanım Teknoloji Lisesi 11. sınıf öğrencisiyim.
+- Sade, minimalist ve işlevsel projelere yapmak istiyorum.
 
 <div align="center">
 
