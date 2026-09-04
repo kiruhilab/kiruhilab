@@ -8,7 +8,7 @@
 ###  Hakkımda
 
 - Frontend  öğreniyorum.
-- Zübeyde Hanım Teknoloji Lisesi 11. sınıf öğrencisiyim.
+- Zübeyde hanım mesleki ve teknik anadolu lisesi 11. sınıf öğrencisiyim.
 - Sade, minimalist ve işlevsel projelere yapmak istiyorum.
 
 <div align="center">
