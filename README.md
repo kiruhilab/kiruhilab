@@ -9,7 +9,7 @@
 
 <ul>
   <li>Zübeyde Hanım Mesleki ve Teknik Anadolu Lisesi 11. sınıf öğrencisiyim.</li>
-  <li React Navite öğreniyorum.</li>
+  <li> React Navite öğreniyorum. </li>
   <li>Öğrendiğim konuları ve pratikleri not alarak belgeliyorum.</li>
 </ul>
 
