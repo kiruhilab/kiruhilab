@@ -1,9 +1,4 @@
-<!-- TOP BANNER -->
-<p align="center">
-  <img src="./channels4_banner.jpg" width="100%" alt="Banner"/>
-</p>
 
-<hr>
 
 <h3>Hakkımda</h3>
 
